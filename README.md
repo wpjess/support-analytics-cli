@@ -1,8 +1,8 @@
 # Support Analytics CLI
 
-**Transform your Intercom support data into actionable business intelligence.**
+**Transform your Intercom report data into actionable business intelligence.**
 
-A powerful command-line tool that converts messy Intercom CSV exports into comprehensive support team analytics, providing the insights you need to optimize team performance, workload distribution, and customer satisfaction.
+A powerful command-line tool that converts Intercom CSV exports into comprehensive team analytics, providing the insights you need to optimize team performance, workload distribution, and customer satisfaction.
 
 ![CLI Demo](https://img.shields.io/badge/CLI-Ready-green) ![Node.js](https://img.shields.io/badge/Node.js-18+-blue) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
