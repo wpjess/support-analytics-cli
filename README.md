@@ -1,14 +1,14 @@
 # Support Analytics CLI
 
-**Transform your Intercom support data into actionable business intelligence.**
+**Transform your Intercom report data into actionable business intelligence.**
 
-A powerful command-line tool that converts messy Intercom CSV exports into comprehensive support team analytics, providing the insights you need to optimize team performance, workload distribution, and customer satisfaction.
+A powerful command-line tool that converts Intercom CSV exports into comprehensive team analytics, providing the insights you need to optimize team performance, workload distribution, and customer satisfaction.
 
 ![CLI Demo](https://img.shields.io/badge/CLI-Ready-green) ![Node.js](https://img.shields.io/badge/Node.js-18+-blue) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 🚀 Why This Tool Exists
 
-As a Support Director with 20+ years of experience, I needed real-time insights into team performance that went beyond Intercom's basic reporting. This tool bridges that gap by transforming raw support data into actionable analytics that actually help you manage and optimize your support operations.
+This tool transforms raw support data into actionable analytics that  help you manage and optimize your support operations.
 
 **Built with AI assistance using Claude Code** - showcasing the power of AI-driven development for solving real business problems.
 
@@ -81,14 +81,14 @@ Peak Week: 137 tickets
 
 ⏱️  AVERAGE RESPONSE TIMES BY TEAM MEMBER
 Member              Avg Hours    Tickets    Range
-Unassigned         83.62h       84         21.9-199.4h
-Team Average: 83.62h
+Unassigned         3.62h       84         1.4h
+Team Average: 3.62h
 Best Performer: Unassigned
 
 🏆 TEAM PERFORMANCE METRICS
 Team              Resolution    Avg Response    Satisfaction
-Customer Success  82.37%       84.29h         4.91/5
-Operations        100%         265.63h        5/5
+Customer Success  82.37%       4.29h         4.91/5
+Operations        100%         5.63h        5/5
 ```
 
 *Results from transforming 138 real Intercom support tickets*
@@ -238,8 +238,8 @@ Created by [Jess Nunez](https://github.com/wpjess) - Support Director with 20+ y
 
 **Built to solve real problems with real data.**
 
-- 📧 Email: hi@jessnunez.dev
-- 🌐 Website: [jessnunez.dev](https://jessnunez.dev)
+- 📧 Email:  contact@jessnunez.com
+- 🌐 Website: [jessnunez.com](https://jessnunez.com)
 - 💼 LinkedIn: [Connect with me](https://linkedin.com/in/jessnunez)
 
 ---
