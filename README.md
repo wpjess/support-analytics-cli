@@ -8,7 +8,7 @@ A powerful command-line tool that converts messy Intercom CSV exports into compr
 
 ## 🚀 Why This Tool Exists
 
-As a Support Director with 20+ years of experience, I needed real-time insights into team performance that went beyond Intercom's basic reporting. This tool bridges that gap by transforming raw support data into actionable analytics that actually help you manage and optimize your support operations.
+This tool transforms raw support data into actionable analytics that  help you manage and optimize your support operations.
 
 **Built with AI assistance using Claude Code** - showcasing the power of AI-driven development for solving real business problems.
 
@@ -238,8 +238,8 @@ Created by [Jess Nunez](https://github.com/wpjess) - Support Director with 20+ y
 
 **Built to solve real problems with real data.**
 
-- 📧 Email: hi@jessnunez.dev
-- 🌐 Website: [jessnunez.dev](https://jessnunez.dev)
+- 📧 Email:  contact@jessnunez.com
+- 🌐 Website: [jessnunez.com](https://jessnunez.com)
 - 💼 LinkedIn: [Connect with me](https://linkedin.com/in/jessnunez)
 
 ---
