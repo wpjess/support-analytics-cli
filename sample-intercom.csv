@@ -1,6 +1,0 @@
-Conversation ID,Conversation created at (America/Vancouver),Teammate currently assigned,Conversation priority,Current conversation state,Conversation first replied at (America/Vancouver),Conversation first closed at (America/Vancouver),Topics,Team currently assigned,Last teammate rating
-12345,2024-07-15 09:30:00,john.doe@company.com,priority,open,2024-07-15 10:15:00,,Bug Report,Technical Support,4
-12346,2024-07-15 14:20:00,jane.smith@company.com,not_priority,closed,2024-07-15 15:00:00,2024-07-16 09:30:00,Billing Question,Billing,5
-12347,2024-07-16 08:45:00,mike.wilson@company.com,urgent,waiting,2024-07-16 09:00:00,,Feature Request,Product,
-12348,2024-07-16 11:30:00,sarah.jones@company.com,high,resolved,2024-07-16 12:00:00,2024-07-16 16:30:00,Technical Issue,Technical Support,3
-12349,2024-07-17 16:15:00,,not_priority,open,,,General Question,General Support,

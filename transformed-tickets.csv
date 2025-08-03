@@ -1,5 +1,0 @@
-ticket_id,created_date,assigned_to,priority,status,first_response_date,category,team,resolution_date,customer_tier,escalated,escalation_date,satisfaction_score
-T-12345,2024-07-15T16:30:00.000Z,john.doe@company.com,Medium,Open,2024-07-15T17:15:00.000Z,Bug Report,Technical Support,,,false,,4
-T-12346,2024-07-15T21:20:00.000Z,jane.smith@company.com,Low,Resolved,2024-07-15T22:00:00.000Z,Billing Question,Billing,2024-07-16T16:30:00.000Z,,false,,5
-T-12347,2024-07-16T15:45:00.000Z,mike.wilson@company.com,Critical,In Progress,2024-07-16T16:00:00.000Z,Feature Request,Product,,,false,,
-T-12348,2024-07-16T18:30:00.000Z,sarah.jones@company.com,High,Resolved,2024-07-16T19:00:00.000Z,Technical Issue,Technical Support,2024-07-16T23:30:00.000Z,,false,,3
