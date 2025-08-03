@@ -81,14 +81,14 @@ Peak Week: 137 tickets
 
 ⏱️  AVERAGE RESPONSE TIMES BY TEAM MEMBER
 Member              Avg Hours    Tickets    Range
-Unassigned         83.62h       84         21.9-199.4h
-Team Average: 83.62h
+Unassigned         3.62h       84         1.4h
+Team Average: 3.62h
 Best Performer: Unassigned
 
 🏆 TEAM PERFORMANCE METRICS
 Team              Resolution    Avg Response    Satisfaction
-Customer Success  82.37%       84.29h         4.91/5
-Operations        100%         265.63h        5/5
+Customer Success  82.37%       4.29h         4.91/5
+Operations        100%         5.63h        5/5
 ```
 
 *Results from transforming 138 real Intercom support tickets*
